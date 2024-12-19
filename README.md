@@ -1,2 +1,3 @@
 # first-git
-this is my firt git repos
+this is my fisrt git repos
+Author- Satyam Singh
